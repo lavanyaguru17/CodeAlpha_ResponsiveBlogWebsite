@@ -7,6 +7,7 @@ This is a responsive food blog website example that showcases various recipes, c
 - HTML5
 - CSS3
 - JavaScript
+- Jquery
 
 ## Features
 
